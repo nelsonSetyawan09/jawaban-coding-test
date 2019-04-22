@@ -1,0 +1,4 @@
+Buatlah program untuk mencari huruf yang pertama duplikat.
+
+	==> Input : ABCA, Output : A Input : ABCDEBE, Output : B Input : ABBA, Output : B
+
